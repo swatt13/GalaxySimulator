@@ -1,0 +1,5 @@
+C:\Users\Stefan Watt\source\repos\GalaxySim\obj\Debug\GalaxySim.csprojAssemblyReference.cache
+C:\Users\Stefan Watt\source\repos\GalaxySim\obj\Debug\MainWindow.g.cs
+C:\Users\Stefan Watt\source\repos\GalaxySim\obj\Debug\App.g.cs
+C:\Users\Stefan Watt\source\repos\GalaxySim\obj\Debug\GalaxySim_MarkupCompile.cache
+C:\Users\Stefan Watt\source\repos\GalaxySim\obj\Debug\GalaxySim_MarkupCompile.lref

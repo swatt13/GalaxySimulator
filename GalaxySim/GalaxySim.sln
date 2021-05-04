@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalaxySim", "GalaxySim.csproj", "{05065D72-46DA-410F-B973-1EE30CAB9978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05065D72-46DA-410F-B973-1EE30CAB9978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05065D72-46DA-410F-B973-1EE30CAB9978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05065D72-46DA-410F-B973-1EE30CAB9978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05065D72-46DA-410F-B973-1EE30CAB9978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6B51F7C-8C86-4B0E-85FB-2862264CFBAD}
+	EndGlobalSection
+EndGlobal
